@@ -8,7 +8,7 @@
 </p>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Eva+Lee🤍;+Welcome+to+My+Profile!;Formal+Graphic+Designer+and+CG+Artist🎨;Learning+computer+science+at+ANU;Over+2+years+of+programming+experience;Always+learning+new+things💖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Eva+Lee🤍;+Welcome+to+My+Profile!;Formal+Graphic+Designer+and+CG+Artist🎨;Learning+computer+science+at+ANU👋;Over+2+years+of+programming+experience;Always+learning+new+things💖)](https://git.io/typing-svg)
 
 <!--   my-header-img -->
 ![](./assets/header_.png)
@@ -24,36 +24,41 @@ Tools                                           | ![Docker](https://img.shields.
 Databases                                       | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+<div align="center">
+<h3 style="background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent;">Trophy: Github Profile Trophy</h3>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EVALEEE" alt="BEPb" /></a>
+</p>
+
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
+### 🤔 GitHub Activity Graph:
 <!--   green snake -->
-![EVALEEE's github activity graph](https://raw.githubusercontent.com/EVALEEE/EVALEEE/output/github-contribution-grid-snake.svg)
+<!-- ![EVALEEE's github activity graph](https://raw.githubusercontent.com/EVALEEE/EVALEEE/output/github-contribution-grid-snake.svg) -->
 
 <!-- dark snake -->
 ![EVALEEE's github activity graph](https://raw.githubusercontent.com/EVALEEE/EVALEEE/output/github-contribution-grid-snake-dark.svg)
 
 
+
 <!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+### 🤔 Stats + Languages Graph:
+![BEPb's github statEVALEEEs](https://github-readme-stats.vercel.app/api?username=EVALEEE&show_icons=true&theme=radical&include_all_commits=true) 
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EVALEEE&theme=radical&layout=compact) 
 
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
 
-## Hi there 👋
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
 
-<!--
-**EVALEEE/EVALEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://count.getloli.com/get/@EVALEEE.github.readme)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **📫 How to Reach me:**
+<p align="left">
+<!-- <a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a> -->
+<a href="mailto:u7829183@anu.edu.au" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/microsoft-outlook-2019.png" alt="Outlook" height="30" width="30" /></a>
+<a href="https://discord.com/users/eval1313" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/discord-logo.png" alt="Discord" height="30" width="30" /></a>
+</p>
+
