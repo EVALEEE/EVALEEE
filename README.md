@@ -8,7 +8,7 @@
 </p>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Eva+Lee🤍;+Welcome+to+My+Profile!;Formal+Graphic+Designer+and+CG+Artist🎨;Learning+computer+science+at+ANU👋;Over+2+years+of+programming+experience;Always+learning+new+things💖;Trying+to+be+a+FULL+STACK+DEVELOPER+in+the+future!🌈)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Eva+Lee🤍;+Welcome+to+My+Profile!;Formal+Graphic+Designer+and+CG+Artist🎨;Learning+computer+science+at+ANU👋;Over+2+years+of+programming+experience;Always+learning+new+things💖;Wanna+be+a+FULL+STACK+DEVELOPER+in+the+future!🌈)](https://git.io/typing-svg)
 
 <!--   my-header-img -->
 ![](./assets/header_.png)
