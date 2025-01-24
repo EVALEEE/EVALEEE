@@ -2,10 +2,13 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/EVALEEE/EVALEEE"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/EVALEEE/EVALEEE/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/EVALEEE/EVALEEE/stargazers"><img src="https://img.shields.io/github/stars/EVALEEE/EVALEEE.svg?logo=github"></a>
+    <a href="https://github.com/EVALEEE/EVALEEE/network/members"><img src="https://img.shields.io/github/forks/EVALEEE/EVALEEE.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=EVALEEE.EVALEEE" alt="visitors"/>   
 </p>
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Eva+Lee🤍;+Welcome+to+My+Profile!;Formal+Graphic+Designer+and+CG+Artist🎨;Learning+computer+science+at+ANU;Over+2+years+of+programming+experience;Always+learning+new+things💖)](https://git.io/typing-svg)
 
 <!--   my-header-img -->
 ![](./assets/header_.png)
@@ -19,6 +22,24 @@ Frameworks                                      | ![Vue.js](https://img.shields.
 Skills                                          | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)]()  [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)]()  [![Full Stack Development Badge](https://img.shields.io/badge/-Full%20Stack%20Development-4C8CBF?style=flat&logoColor=white)]() [![Full Stack Development Badge](https://img.shields.io/badge/-Full%20Stack%20Development-FAB040?style=flat&logoColor=white)]() [![UI/UX Development Badge](https://img.shields.io/badge/-UI/UX%20Development-4C8CBF?style=flat&logoColor=white)]() [![CG & Graphic Badge](https://img.shields.io/badge/-CG%20&%20Graphic%20Design-4C8CBF?style=flat&logoColor=white)]()    [![Game Development Badge](https://img.shields.io/badge/-Game%20Development-FF6600?style=flat&logoColor=white)]()
 Tools                                           | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white) ![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6A?style=for-the-badge&logo=cinema-4d&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![Octane Render](https://img.shields.io/badge/Octane_Render-000000?style=for-the-badge&logo=octane-render&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 Databases                                       | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![EVALEEE's github activity graph](https://raw.githubusercontent.com/EVALEEE/EVALEEE/output/github-contribution-grid-snake.svg)
+
+<!-- dark snake -->
+![EVALEEE's github activity graph](https://raw.githubusercontent.com/EVALEEE/EVALEEE/output/github-contribution-grid-snake-dark.svg)
+
+
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
 
 ## Hi there 👋
 
