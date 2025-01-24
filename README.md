@@ -48,11 +48,11 @@ Databases                                       | ![MySQL](https://img.shields.i
 ![BEPb's github statEVALEEEs](https://github-readme-stats.vercel.app/api?username=EVALEEE&show_icons=true&theme=radical&include_all_commits=true) 
 ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EVALEEE&theme=radical&layout=compact) 
 
-
+<!-- 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@EVALEEE.github.readme)
+![](https://count.getloli.com/get/@EVALEEE.github.readme) -->
 
 
 ### **📫 How to Reach me:**
